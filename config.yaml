@@ -1,17 +1,17 @@
 # 配置文件
 
-DAILY_TIME: "14:00" # 每日定时发送时间。该时间为系统时间，如果当前系统时间不为北京时间需要自行进行换算
+DAILY_TIME: "06:50" # 每日定时发送时间。该时间为系统时间，如果当前系统时间不为北京时间需要自行进行换算
 
-START_DATE: "2020-05-20" # 纪念日
-CITY: "北京"
+START_DATE: "2022-10-05" # 纪念日
+CITY: "中山"
 
 BIRTHDAY:
-  - "05-21"
+  - "06-24"
 
-APP_ID: "微信公众平台的 APP ID"
-APP_SECRET: "微信公众平台的 APP SECRET"
+APP_ID: "wxcbd6206ce0b5b925"
+APP_SECRET: "37d491e3752c2367c03aa29ce45d38fb"
 
 USER_ID: 
-  - "微信公众平台的 USER ID"
-  - "USER ID 2" # 你可以通过配置多个USER_ID来设置多个接受者，如果接受者只有一人删除本行即可
-TEMPLATE_ID: "微信公众平台的 TEMPLATE ID"
+  - "oeFba5_nP5mluQ5y5w53OTU7fYFE"
+  - "oeFba5_uBsdbQWFTzDv2CWaPhqZ0" # 你可以通过配置多个USER_ID来设置多个接受者，如果接受者只有一人删除本行即可
+TEMPLATE_ID: "zRP3USSyM5tM04ISHLRyINzfov9B0hLEw3kFyLzhRxQ"
